@@ -1,0 +1,1 @@
+const username = prompt('Digite o seu nome completo:')

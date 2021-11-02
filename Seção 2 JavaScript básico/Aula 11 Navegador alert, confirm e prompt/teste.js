@@ -1,0 +1,5 @@
+let num1 = prompt('digite um número')
+let num2 = prompt('+')
+num1 = parseInt(num1)
+num2 = parseInt(num2)
+alert(`o resultado é: ${num1 + num2}`)
